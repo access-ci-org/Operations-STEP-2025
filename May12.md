@@ -2,7 +2,7 @@
 
 | Time | Topic | Purpose | Session Lead | Location |
 |------|-------|---------|--------------|----------|
-| 17:00 | Welcome and Orientation | Orient Students with STEPs Program | Winona, Rob | PC414 |
+| 17:00 | Welcome and Orientation | Orient Students with STEPs Program | Winona, Rob, Vasi | PC414 |
 | 17:30 | Local Hosts Introduce PICO | Introduction of Host Institution | Vasi | PC414 | 
 | 18:00 | Dinner | Networking and Nurishment | All | TAM121 |
 | 19:30 | ACCESS Account Creation, SSH Client Installation, git setup | Prepare ACCESS Accounts and software for Course | Vasi and Rob | PC414| 
@@ -11,7 +11,7 @@
 
 [Introduction Slide Deck](https://docs.google.com/presentation/d/1lgiJVi56oq0tuZ8su0Ly4Lj6lBzSkVxQgZZO9omb6Ho/edit#slide=id.g359d24b7cfc_0_0) 
 
-## Lesson Resources (Hands on Activities)
+## Lesson Resources (Hands-on Activities)
 
 ### Git Setup
 
