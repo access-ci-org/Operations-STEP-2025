@@ -3,7 +3,7 @@
 | Time | Topic | Purpose | Session Lead | Location |
 |------|-------|---------|--------------|----------|
 | 17:00 | Welcome and Orientation | Orient Students with STEPs Program | Winona, Rob, Vasi | PC414 |
-| 17:30 | Local Hosts Introduce PICO | Introduction of Host Institution | Vasi | PC414 | 
+| 17:30 | Local Hosts Introduce PICO | Introduction to FIU  | Vasi | PC414 | 
 | 18:00 | Dinner | Texas de Brazil - Miami Dolphin, (11401 Northwest 12th Street Suite 514, Miami, FL) | All | TAM121 |
 | 19:30 | ACCESS Account Creation, SSH Client Installation, git setup | Prepare ACCESS Accounts and software for Course | Vasi and Rob | PC414| 
 
