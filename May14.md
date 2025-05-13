@@ -5,8 +5,9 @@
 | 10:00 | Introduction to Jupyter Notebooks    | Navigating a Jupyter Notebook | Rob | PC414 |
 | 11:00 | Version Control with Git | Understanding of Versioning and Basic Git Functionality | Chris | PC414 |
 | 12:00 | Lunch                       | | | | 
+| 13:00 | Resource Provider Spotlight | Translational Cyberinfrastructure | Miron | PC414 | 
 | 14:00 | Version Control with Git - Continued | Understanding of Versioning and Basic Git Functionality | Chris | PC414 | 
-| 15:30 | Resource Provider Spotlight | Translational Cyberinfrastructure | Miron | PC414 | 
+| 15:30 | Coffee Break | | | |
 | 16:00 | Version Control with Git - Conclusion | Understanding of Versioning and Basic Git Functionality | Chris | PC414 |
 
 ## Presentation Materials
