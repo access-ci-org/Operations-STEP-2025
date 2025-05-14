@@ -16,7 +16,9 @@
 
 [Python Slides](https://docs.google.com/presentation/d/175WGoY7wreqT4HSNsBNovBffI_prKIVgDwIgwCga84E/edit#slide=id.g23f49913e7f_0_9n)
 
-## Lesson Resources (Hands on Activities)
+## Lesson Resources (Hands-on Activities)
+
+[Colab Hands-on Exercise](https://github.com/access-ci-org/Operation_STEP/blob/main/Day5-May19/Colab_Regression_Spark.ipynb)
 
 Phillip Enslow article [What is a "distributed" data processing system?](https://ieeexplore.ieee.org/abstract/document/1646676)
 
@@ -34,3 +36,5 @@ Phillip Enslow article [What is a "distributed" data processing system?](https:/
 [Software Carpentry Plotting Python Lesson (supplemental)](http://swcarpentry.github.io/python-novice-gapminder/)
 
 [Python Lesson Repo](https://github.com/ricardo0129/PythonWorkshop)
+
+[A Deeper Look at PySpark](https://www.mygreatlearning.com/blog/pyspark-tutorial-for-beginners/)
