@@ -1,14 +1,14 @@
 ## Overview of STEP Schedule 
 
-Click each daily link for detailed schedule.
+Click each daily link for a detailed schedule.
 
 ### Week 1
 
 #### May 12 - [Day 1](https://github.com/access-ci-org/Operations-STEP-2025/blob/main/May12.md) - Arrival, Introduction, Account Creation
 #### May 13 - [Day 2](https://github.com/access-ci-org/Operations-STEP-2025/blob/main/May13.md) - Open and Responsibel Research and Unix
 #### May 14 - [Day 3](https://github.com/access-ci-org/Operations-STEP-2025/blob/main/May14.md) - Git and Python
-#### May 15 - Computational Infrastructure and Tools
-#### May 16 - High Preformance and High Throughput Computing
+#### May 15 - [Day 4](https://github.com/access-ci-org/Operations-STEP-2025/blob/main/May15.md) - Computational Infrastructure and Tools
+#### May 16 - CI in Action
 
 ### Week 2
 
