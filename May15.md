@@ -11,10 +11,10 @@
 | 15:00 | Computational Infrastructures | From your laptop to the cloud and beyond | Rob | PC414 | 
 
 ## Presentation Materials
-[AI/ML Slides](https://github.com/access-ci-org/Operations_STEP_2024/blob/main/Day4-May16/AccessStepAIandMLIntroHandsOn2024v01.pdf)
+[AI/ML Slides](https://github.com/access-ci-org/Operations-STEP-2025/blob/main/AccessStepAIandMLIntroHandsOn2025v00.pptx)
 
 [Computational Infrastructures](https://github.com/access-ci-org/Operation_STEP/blob/main/Day4-May18/ACCESS-CI-Lecture1.pdf)
-## Lesson Resources (Hands on Activities)
+## Lesson Resources (Hands-on Activities)
 
 [Regression Exercise](https://github.com/access-ci-org/Operations_STEP_2024/blob/main/Day4-May16/RegressionNotebook2024.ipynb)
 
