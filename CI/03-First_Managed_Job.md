@@ -188,19 +188,18 @@ If you only ever had to run a single job, you probably wouldn't need Condor. But
 ```
 Universe   = vanilla
 Executable = simple
-Arguments  = 4 10
+Arguments  = "$(A) $(B)" 
 Log        = simple.$(Process).log
 Output     = simple.$(Process).out
-Error      = simple.$(Process).error
+Error      = simple.$(Process)error
 should_transfer_files   = YES
 when_to_transfer_output = ON_EXIT
-Queue
 
-Arguments = 4 11
-Queue
-
-Arguments = 4 12
-Queue
+queue A,B from (
+        4,10
+        4,11
+        4,12
+) 
 ```
 
 There are two important differences to notice here. First, the Log, Output and Error lines have the `$(Process)` macro in them. This means that the output and error files will be named according to the process number of the job. You'll see what this looks like in a moment. Second, we told Condor to run the same job an extra two times by adding extra `Arguments` and `Queue` statements. We are doing a parameter sweep on the values 10, 11, and 12. Let's see what happens: 
