@@ -107,7 +107,7 @@ Now, watch your job run (insert your username in the command below instead of `U
 
 ```
 # Note the job state of 'I' means the job is idle - not yet running
-$ condor_q YOUR_USER_ID -nobatch
+$ condor_q jovyan -nobatch
 
 -- Schedd: user-training.osgconnect.net : <192.170.227.119:9618?... @ 07/19/17 03:41:08
  ID      OWNER            SUBMITTED     RUN_TIME ST PRI SIZE CMD
@@ -119,7 +119,7 @@ Total for all users: 1 jobs; 0 completed, 0 removed, 1 idle, 0 running, 0 held, 
 1 jobs; 0 completed, 0 removed, 1 idle, 0 running, 0 held, 0 suspended
 
 # After some time your job will enter the 'R' state which means it is currently running
-$ condor_q YOUR_USER_ID -nobatch
+$ condor_q jovyan -nobatch
 
 -- Schedd: user-training.osgconnect.net : <192.170.227.119:9618?... @ 07/19/17 03:41:14
  ID      OWNER            SUBMITTED     RUN_TIME ST PRI SIZE CMD
@@ -131,7 +131,7 @@ Total for all users: 1 jobs; 0 completed, 0 removed, 0 idle, 1 running, 0 held, 
 1 jobs; 0 completed, 0 removed, 1 idle, 0 running, 0 held, 0 suspended
 
 # When your job disappears from the queue that means it completed.
-$ condor_q YOUR_USER_ID -nobatch
+$ condor_q jovyan -nobatch
 
 -- Schedd: user-training.osgconnect.net : <192.170.227.119:9618?... @ 07/19/17 03:41:21
  ID      OWNER            SUBMITTED     RUN_TIME ST PRI SIZE CMD
