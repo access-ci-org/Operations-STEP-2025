@@ -13,14 +13,13 @@
 ## Presentation Materials
 [AI/ML Slides](https://github.com/access-ci-org/Operations-STEP-2025/blob/main/AccessStepAIandMLIntroHandsOn2025v00.pptx)
 
-[Umair's AI Demo](https://github.com/umairmy305/DemoGT)
+[Computational Infrastructures](https://github.com/access-ci-org/Operations-STEP-2025/blob/main/CI/STEP-CI-Lecture.pdf)
 
-[Computational Infrastructures](https://github.com/access-ci-org/Operation_STEP/blob/main/Day4-May18/ACCESS-CI-Lecture1.pdf)
 ## Lesson Resources (Hands-on Activities)
 
-[Regression Exercise](https://github.com/access-ci-org/Operations_STEP_2024/blob/main/Day4-May16/RegressionNotebook2024.ipynb)
+[Umair's AI Demo](https://github.com/umairmy305/DemoGT)
 
-[Deep Learning Exercise](https://github.com/access-ci-org/Operations_STEP_2024/blob/main/Day4-May16/DeepLearning2024.ipynb)
+[CI Hands-On](https://github.com/access-ci-org/Operations-STEP-2025/blob/main/CI)
 
 ## Other Helpful Links
 [ACCESS-CI](https://access-ci.org/)
