@@ -13,6 +13,8 @@
 ## Presentation Materials
 [AI/ML Slides](https://github.com/access-ci-org/Operations-STEP-2025/blob/main/AccessStepAIandMLIntroHandsOn2025v00.pptx)
 
+[Umair's AI Demo](https://github.com/umairmy305/DemoGT)
+
 [Computational Infrastructures](https://github.com/access-ci-org/Operation_STEP/blob/main/Day4-May18/ACCESS-CI-Lecture1.pdf)
 ## Lesson Resources (Hands-on Activities)
 
