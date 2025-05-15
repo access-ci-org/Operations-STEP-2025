@@ -93,7 +93,7 @@ Let's examine each of these lines:
    * *Output:* Where Condor should put the standard output from your job.
    * *Error:* Where Condor should put the standard error from your job. Our job isn't likely to have any, but we'll put it there to be safe.
    * *should_transfer_files:* Tell Condor that it should transfer files, instead of relying on a shared filesystem. While your home directories (on the glite-tutor computers) are mounted on NFS, you do not have user accounts on the worker nodes, so your jobs cannot access files on NFS. In addition, NFS isn't available between the local UI computers and the remote worker nodes. Therefore we will have Condor transfer files to the remote computer.
-   * *when_to_transfer_output:* A technical detail about when files should be transported back to the computer from which you submitted your job. Don't worry about the details for now. If you're really curious, you can read [all the details in the Condor manual](http://www.cs.wisc.edu/condor/manual/v7.6/2_5Submitting_Job.html#sec:file-transfer).
+   * *when_to_transfer_output:* A technical detail about when files should be transported back to the computer from which you submitted your job. Don't worry about the details for now. If you're really curious, you can read [all the details in the Condor manual](https://htcondor.readthedocs.io/en/latest/users-manual/file-transfer.html).
 
 Next, tell Condor to run your job: 
 
