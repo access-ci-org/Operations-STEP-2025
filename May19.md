@@ -1,4 +1,4 @@
-# Day Six - May 20 - A Focus on Cloud-based CI
+# Day Six - May 19 - A Focus on Cloud-based CI
 
 | Time | Topic | Purpose | Session Lead | Location |
 |------|-------|---------|--------------|----------|
@@ -8,7 +8,7 @@
 | 13:30 | Launching and Connecting to a VM | | Rob |Room PC411 | 
 | 14:00 | Break | | |Room PC411 |
 | 14:30 | Science Gateways | | Enis | Room PC411 |
-| 14:30 | Containers | | Aaron |Room PC411 | 
+| 15:00 | Containers | | Aaron |Room PC411 | 
 
 
 ## Presentation Materials
