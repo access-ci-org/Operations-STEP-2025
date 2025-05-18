@@ -1,4 +1,4 @@
-# Day Eight - May 22 - Cybersecurity
+# Day Eight - May 21 - Cybersecurity
 
 | Time | Topic | Purpose | Session Lead | Location |
 |------|-------|---------|--------------|----------|
@@ -9,6 +9,6 @@
 
 ## Presentation Materials
 
-## Lesson Resources (Hands on Activities)
+## Lesson Resources (Hands-on Activities)
 
 ## Other Helpful Links
