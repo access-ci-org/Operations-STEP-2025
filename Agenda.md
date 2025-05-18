@@ -13,8 +13,8 @@ Click each daily link for a detailed schedule.
 ### Week 2
 
 #### May 19 - [Day 6](https://github.com/access-ci-org/Operations-STEP-2025/blob/main/May19.md) - Focus on Cloud Computing
-#### May 20 - [Day 7](https://github.com/access-ci-org/Operations-STEP-2025/blob/main/May20.md)Own Your Own Exercise and Visit the FIU Institute of Environment
-#### May 21 - [Day 8](https://github.com/access-ci-org/Operations-STEP-2025/blob/main/May21.md)Cybersecurity
-#### May 22 - [Day 9](https://github.com/access-ci-org/Operations-STEP-2025/blob/main/May22.md)Advanced Networking & Data Transfer
-#### May 23 - [Day 10](https://github.com/access-ci-org/Operations-STEP-2025/blob/main/May23.md)Advanced Networking in Action
+#### May 20 - [Day 7](https://github.com/access-ci-org/Operations-STEP-2025/blob/main/May20.md) - Own Your Own Exercise and Visit the FIU Institute of Environment
+#### May 21 - [Day 8](https://github.com/access-ci-org/Operations-STEP-2025/blob/main/May21.md) - Cybersecurity
+#### May 22 - [Day 9](https://github.com/access-ci-org/Operations-STEP-2025/blob/main/May22.md) - Advanced Networking & Data Transfer
+#### May 23 - [Day 10](https://github.com/access-ci-org/Operations-STEP-2025/blob/main/May23.md) - Advanced Networking in Action
 
