@@ -15,7 +15,7 @@
 
 [Intro to Cloud Computing](https://github.com/access-ci-org/Operations-STEP-2025/blob/main/STEP1-Miami-Quick-JS2-May25.pptx)
 
-[Introduction to Containers](02-Containers/Wells-2024-Introduction-to-Containers.pptx)
+[Introduction to Containers](https://github.com/access-ci-org/Operations-STEP-2025/blob/main/Quick2025-Introduction-to-Containers.pptx)
 
 [Orchestration and Infrastructure as Code](03-Orchestration/wellsaar-Orchestration-and-IaC.pptx)
 
