@@ -26,6 +26,8 @@
 
 [Jestream API Tutorial](https://github.com/jlf599/JetstreamAPITutorial)
 
+[Regression Exercise](https://github.com/access-ci-org/Operations-STEP-2025/blob/main/Regression_Spark.ipynb)
+
 
 ## Other Helpful Links
 
