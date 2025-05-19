@@ -13,7 +13,7 @@
 
 ## Presentation Materials
 
-[Intro to Cloud Computing](01_Fundementals_of_Cloud_Computing_and_Open_Stack_Intro/STEP1-Miami-Apr-2024-JS2-Wells.pptx)
+[Intro to Cloud Computing](https://github.com/access-ci-org/Operations-STEP-2025/blob/main/STEP1-Miami-Quick-JS2-May25.pptx)
 
 [Introduction to Containers](02-Containers/Wells-2024-Introduction-to-Containers.pptx)
 
